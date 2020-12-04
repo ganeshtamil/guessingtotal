@@ -1,0 +1,67 @@
+body{
+    background-color: mediumspringgreen ;
+    color: darkolivegreen;
+    font-size: 1rem;
+    font-weight: 800;
+    font-family: 'Noto Sans', sans-serif;
+    padding-top: 1rem;
+    text-align: center;
+   
+}
+.heading{
+    font-family: 'Merienda', cursive;
+}
+
+a{
+    color: crimson;
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+.display-area{
+    color: ;
+    padding-top: 2rem;
+}
+.btn{
+    color:red;
+    font-size: 1rem;
+    font-weight: bold;
+    display:block;
+    margin: 2rem auto;
+    padding: 0.5rem;
+    width: 20%;
+}
+
+hr{
+    
+    width: 45%;
+}
+
+.empty{
+    background-color: mintcream;
+    height: 500px;
+    width: 100%;
+}
+#rules{
+    padding: 10% 15% 3%;
+    text-align: justify;
+    background-color: mediumspringgreen;
+    
+}
+.warn{
+    color: orangered;
+}
+li{
+    text-align: justify;
+}
+h2 , .hintline{
+    color:blue;
+}
+span{
+    color: darkviolet;
+}
+.footer{
+    color:brown;
+    font-size: .8rem;
+    padding-bottom: 1rem;
+}
